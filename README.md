@@ -19,7 +19,7 @@ Panjang balasan: **131 karakter** (batas 1–160 karakter).
 ## Kenapa balasan ini bekerja
 
 - Membelokkan baris paling familiar dari pesan away mana pun — pengalihan ke rekan kerja — bukan menempelkan joke ke pengumuman.
-- Detailnya konkret dan spesifik: Priya, yang sudah begitu sering menggantikan saya sampai ia menandatangani nama saya lebih baik dari saya sendiri.
+- Detailnya konkret dan spesifik: Priya, yang sudah begitu sering menggantikan saya sampai ia menandatangani nama saya lebih baik daripada saya sendiri.
 - Punchline mendarat di kata-kata terakhir — tanda tangan yang dipalsukan — gambaran yang langsung dikenali siapa pun yang pernah bekerja di kantor.
 - Satu kalimat, satu baris, satu pembacaan, tanpa setup yang perlu dijelaskan.
 - Tetap terbaca seperti pesan away sungguhan yang orang akan senang menyalakannya: ada tanggal kembali (Monday) dan ada orang yang bisa dihubungi (Priya).
