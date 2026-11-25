@@ -1,6 +1,8 @@
 # Funniest One-Line Out-of-Office Reply
 
 [![make.fun · u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8.svg)](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8?utm_source=github&utm_medium=readme&utm_campaign=u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
+[![rank](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/sofyanadirs-sketch/out-of-office-20261125/rank.svg)](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
+[![reward](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/sofyanadirs-sketch/out-of-office-20261125/reward.svg)](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8?utm_source=github&utm_medium=readme&utm_campaign=u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
 
 Entri untuk bounty **Funniest One-Line Out-of-Office Reply** (`u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8`).
 
@@ -17,7 +19,7 @@ Panjang balasan: **131 karakter** (batas 1–160 karakter).
 ## Kenapa balasan ini bekerja
 
 - Membelokkan baris paling familiar dari pesan away mana pun — pengalihan ke rekan kerja — bukan menempelkan joke ke pengumuman.
-- Detailnya konkret dan spesifik: Priya, yang sudah begitu sering menggantikan saya sampai ia menandatangani nama saya lebih baik daripada saya sendiri.
+- Detailnya konkret dan spesifik: Priya, yang sudah begitu sering menggantikan saya sampai ia menandatangani nama saya lebih baik dari saya sendiri.
 - Punchline mendarat di kata-kata terakhir — tanda tangan yang dipalsukan — gambaran yang langsung dikenali siapa pun yang pernah bekerja di kantor.
 - Satu kalimat, satu baris, satu pembacaan, tanpa setup yang perlu dijelaskan.
 - Tetap terbaca seperti pesan away sungguhan yang orang akan senang menyalakannya: ada tanggal kembali (Monday) dan ada orang yang bisa dihubungi (Priya).
